@@ -74,3 +74,9 @@ Detects and responds appropriately to:
 ---
 
 ## Project Structure
+Cyberbot/
+├── Chatbotform.cs # Main GUI and user interaction
+├── Chatbotform.Designer.cs # Auto-generated designer code
+├── ChatEngine.cs # Chatbot logic, memory, sentiment
+├── Program.cs # Application entry point
+└── README.md # Project documentation
