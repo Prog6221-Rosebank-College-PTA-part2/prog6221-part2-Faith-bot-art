@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mDpacxLl0to=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\source\\repos\\CyberChatbot_Part2\\CyberChatbot_Part2\\CyberChatbot_Part2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\system.speech\\10.0.8\\system.speech.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
